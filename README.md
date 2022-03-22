@@ -1,2 +1,3 @@
 # DSProject1
-Python Tesla and GME stock price analysis
+Tesla and GME stock price analysis
+Webscraping and Python
